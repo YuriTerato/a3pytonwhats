@@ -1,0 +1,63 @@
+[10/09/2026, 08:00:12] Grupo Exemplo: ‎As mensagens e ligações são protegidas com a criptografia de ponta a ponta.
+[10/09/2026, 08:01:03] Yuri: ‎criou o grupo "Grupo Exemplo"
+[10/09/2026, 07:49:13] Ana: ‎<anexado: 000065-PHOTO-2026-09-10.jpg>
+[10/09/2026, 07:59:15] Maria: ‎<anexado: 000064-PHOTO-2026-09-10.jpg>
+[10/09/2026, 08:14:36] Yuri: Fechado
+[10/09/2026, 08:36:03] Maria: Ja subi no github
+segunda linha da mesma mensagem
+[10/09/2026, 09:34:35] Yuri: Boa ideia
+[10/09/2026, 13:14:36] Maria: Preciso de ajuda com o pandas
+[10/09/2026, 13:44:40] Maria: Alguem viu o trabalho de tarde?
+[10/09/2026, 16:08:03] Yuri: Que horas a gente se encontra?
+[10/09/2026, 16:56:20] Maria: Que horas a gente se encontra?
+[10/09/2026, 18:06:11] Yuri: Fechado
+segunda linha da mesma mensagem
+[10/09/2026, 21:00:31] Yuri: Ja testei aqui e funcionou
+[11/09/2026, 09:00:26] Ana: ‎<anexado: 000095-PHOTO-2026-09-10.jpg>
+[11/09/2026, 09:35:35] Yuri: Consegui terminar a parte do Python
+[11/09/2026, 09:48:31] Yuri: Que horas a gente se encontra?
+segunda linha da mesma mensagem
+[11/09/2026, 12:50:17] Yuri: Preciso de ajuda com o pandas
+segunda linha da mesma mensagem
+[11/09/2026, 14:08:19] Joao: Preciso de ajuda com o pandas
+[11/09/2026, 15:44:24] Yuri: Consegui terminar a parte do Python
+segunda linha da mesma mensagem
+[11/09/2026, 19:55:10] Maria: Que horas a gente se encontra?
+segunda linha da mesma mensagem
+[12/09/2026, 08:22:35] Maria: Vou mandar o arquivo
+[12/09/2026, 09:12:17] Joao: Consegui terminar a parte do Python
+[12/09/2026, 09:50:14] Yuri: Vou mandar o arquivo
+[12/09/2026, 11:13:00] Maria: Valeu!
+[12/09/2026, 13:40:09] Yuri: Consegui terminar a parte do Python
+[12/09/2026, 13:47:08] Yuri: Perfeito
+[12/09/2026, 15:28:47] Maria: ‎<anexado: 000097-PHOTO-2026-09-10.jpg>
+[12/09/2026, 19:36:25] Joao: Ja subi no github
+[12/09/2026, 21:52:03] Maria: Fechado
+[12/09/2026, 22:38:38] Yuri: ‎<anexado: 000010-PHOTO-2026-09-10.jpg>
+[12/09/2026, 22:50:10] Maria: ‎mudou o código de segurança.
+[14/09/2026, 07:26:09] Maria: Consegui terminar a parte do Python
+[14/09/2026, 08:12:07] Maria: Que horas a gente se encontra?
+[14/09/2026, 08:43:09] Yuri: Consegui terminar a parte do Python
+[14/09/2026, 10:32:44] Maria: Bom dia pessoal
+[14/09/2026, 13:12:23] Ana: Perfeito
+[14/09/2026, 16:09:19] Joao: Alguem viu o trabalho de tarde?
+[14/09/2026, 17:28:23] Yuri: Consegui terminar a parte do Python
+[14/09/2026, 21:55:49] Maria: Preciso de ajuda com o pandas
+[15/09/2026, 10:24:46] Maria: ‎<anexado: 000013-PHOTO-2026-09-10.jpg>
+[15/09/2026, 10:52:30] Joao: Ja testei aqui e funcionou
+[15/09/2026, 11:05:51] Yuri: Consegui terminar a parte do Python
+[15/09/2026, 13:50:14] Yuri: Que horas a gente se encontra?
+[15/09/2026, 15:50:39] Yuri: Valeu!
+[15/09/2026, 19:37:41] Maria: Preciso de ajuda com o pandas
+segunda linha da mesma mensagem
+[15/09/2026, 20:42:58] Maria: Ja testei aqui e funcionou
+[15/09/2026, 20:45:11] Maria: Preciso de ajuda com o pandas
+[15/09/2026, 20:57:46] Joao: Ja subi no github
+[16/09/2026, 07:28:51] Ana: Valeu!
+[16/09/2026, 09:10:42] Ana: Vou mandar o arquivo
+[16/09/2026, 09:34:00] Yuri: Ja testei aqui e funcionou
+[16/09/2026, 09:42:59] Maria: Fechado
+[16/09/2026, 09:54:16] Yuri: Perfeito
+[16/09/2026, 17:04:16] Maria: Vou mandar o arquivo
+segunda linha da mesma mensagem
+[16/09/2026, 19:22:57] Joao: Valeu!
